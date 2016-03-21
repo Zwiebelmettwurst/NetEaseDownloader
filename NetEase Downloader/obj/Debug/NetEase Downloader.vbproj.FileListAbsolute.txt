@@ -1,0 +1,13 @@
+c:\users\leonard\documents\visual studio 2015\Projects\NetEase Downloader\NetEase Downloader\bin\Debug\NetEase Downloader.exe.config
+c:\users\leonard\documents\visual studio 2015\Projects\NetEase Downloader\NetEase Downloader\bin\Debug\NetEase Downloader.exe
+c:\users\leonard\documents\visual studio 2015\Projects\NetEase Downloader\NetEase Downloader\bin\Debug\NetEase Downloader.pdb
+c:\users\leonard\documents\visual studio 2015\Projects\NetEase Downloader\NetEase Downloader\bin\Debug\NetEase Downloader.xml
+c:\users\leonard\documents\visual studio 2015\Projects\NetEase Downloader\NetEase Downloader\obj\Debug\NetEase_Downloader.Form1.resources
+c:\users\leonard\documents\visual studio 2015\Projects\NetEase Downloader\NetEase Downloader\obj\Debug\NetEase_Downloader.Resources.resources
+c:\users\leonard\documents\visual studio 2015\Projects\NetEase Downloader\NetEase Downloader\obj\Debug\NetEase Downloader.vbproj.GenerateResource.Cache
+c:\users\leonard\documents\visual studio 2015\Projects\NetEase Downloader\NetEase Downloader\obj\Debug\NetEase Downloader.exe
+c:\users\leonard\documents\visual studio 2015\Projects\NetEase Downloader\NetEase Downloader\obj\Debug\NetEase Downloader.xml
+c:\users\leonard\documents\visual studio 2015\Projects\NetEase Downloader\NetEase Downloader\obj\Debug\NetEase Downloader.pdb
+c:\users\leonard\documents\visual studio 2015\Projects\NetEase Downloader\NetEase Downloader\bin\Debug\Newtonsoft.Json.dll
+c:\users\leonard\documents\visual studio 2015\Projects\NetEase Downloader\NetEase Downloader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Leonard\documents\visual studio 2015\Projects\NetEase Downloader\NetEase Downloader\obj\Debug\NetEase Downloader.vbprojResolveAssemblyReference.cache
