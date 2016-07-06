@@ -91,6 +91,7 @@ Public Class Form1
             Next
             Dim mySongQuery As String = String.Join(",", songList)
             Dim webClient As New System.Net.WebClient
+            webClient.Proxy = RandomProxy()
             Dim result As String = webClient.DownloadString("http://music.163.com/api/song/detail?ids=[" & mySongQuery & "]")
             Dim resultsongs = Linq.JObject.Parse(result)
             Dim mynewSongs As Linq.JToken = resultsongs.Item("songs")

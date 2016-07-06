@@ -36,11 +36,11 @@ Partial Class Form1
         Me.btn_searchQuery = New System.Windows.Forms.Button()
         Me.txt_searchQuery = New System.Windows.Forms.TextBox()
         Me.GroupBox3 = New System.Windows.Forms.GroupBox()
+        Me.btn_listen = New System.Windows.Forms.Button()
         Me.lbl_downloadprogress = New System.Windows.Forms.Label()
         Me.btn_download = New System.Windows.Forms.Button()
         Me.lbl_title = New System.Windows.Forms.Label()
         Me.ProgressBar1 = New System.Windows.Forms.ProgressBar()
-        Me.btn_listen = New System.Windows.Forms.Button()
         Me.GroupBox1.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
         Me.GroupBox3.SuspendLayout()
@@ -165,6 +165,16 @@ Partial Class Form1
         Me.GroupBox3.TabStop = False
         Me.GroupBox3.Text = "Download"
         '
+        'btn_listen
+        '
+        Me.btn_listen.Enabled = False
+        Me.btn_listen.Location = New System.Drawing.Point(332, 67)
+        Me.btn_listen.Name = "btn_listen"
+        Me.btn_listen.Size = New System.Drawing.Size(71, 23)
+        Me.btn_listen.TabIndex = 4
+        Me.btn_listen.Text = "listen"
+        Me.btn_listen.UseVisualStyleBackColor = True
+        '
         'lbl_downloadprogress
         '
         Me.lbl_downloadprogress.AutoSize = True
@@ -200,15 +210,6 @@ Partial Class Form1
         Me.ProgressBar1.Name = "ProgressBar1"
         Me.ProgressBar1.Size = New System.Drawing.Size(397, 21)
         Me.ProgressBar1.TabIndex = 0
-        '
-        'btn_listen
-        '
-        Me.btn_listen.Location = New System.Drawing.Point(332, 67)
-        Me.btn_listen.Name = "btn_listen"
-        Me.btn_listen.Size = New System.Drawing.Size(71, 23)
-        Me.btn_listen.TabIndex = 4
-        Me.btn_listen.Text = "listen"
-        Me.btn_listen.UseVisualStyleBackColor = True
         '
         'Form1
         '
