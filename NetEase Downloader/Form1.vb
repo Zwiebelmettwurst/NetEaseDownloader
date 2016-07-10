@@ -70,7 +70,7 @@ Public Class Form1
     End Sub
     Private Sub doQuery()
         If txt_searchQuery.Text.Length < 1 Then Exit Sub
-        btn_searchQuery.Enabled = False
+        ' btn_searchQuery.Enabled = False
         lbl_status.Text = "searching..."
 
         Try
@@ -152,7 +152,7 @@ Public Class Form1
         End Try
 
         lbl_status.Text = "idle"
-        btn_searchQuery.Enabled = True
+        '   btn_searchQuery.Enabled = True
     End Sub
     Private Sub btn_search_Click(sender As Object, e As EventArgs) Handles btn_searchQuery.Click
         startQuery()
@@ -300,7 +300,7 @@ Public Class Form1
     End Function
     Private Sub btn_download_Click(sender As Object, e As EventArgs) Handles btn_download.Click
         If lvw_Songs.SelectedItems.Count = 1 Then
-            lvw_Songs.Enabled = False
+            ' lvw_Songs.Enabled = False
             SW = Stopwatch.StartNew
 
             subDownloadMusic() '(CType(lvw_Songs.Items(lvw_Songs.SelectedIndices(0)).Tag, String))
